@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.kelly-slab-regular {
+  font-family: "Kelly Slab", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+    background-color:#0B1C2D ;
+     font-family: "Kelly Slab", sans-serif;
+}
+.btn{
+    background-color: #6C63FF;
+}
+.btn:hover{
+    background-color: #0B1C2D;
+}
