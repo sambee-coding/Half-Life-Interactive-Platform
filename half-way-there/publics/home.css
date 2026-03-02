@@ -57,7 +57,7 @@ h1{
      transition: 0.3s;
 }
 .photo-box:hover{
-    
+    border-color: rgb(19, 224, 224);
     background-color: #e7f1ff;
     transition: ease-in-out;
 }
@@ -72,6 +72,7 @@ h1{
 }
 .btn{
     background-color: #6C63FF;
+    border-color: #0B1C2D;
 }
 .btn:hover{
     background-color:#0B1C2D;
@@ -80,4 +81,7 @@ h1{
 }
 h5{
     color: #6C63FF;
+}
+#quick-links:hover{
+color: #6C63FF;
 }
