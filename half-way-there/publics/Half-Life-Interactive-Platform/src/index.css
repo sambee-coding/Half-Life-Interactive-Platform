@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
 *{
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: 'Kelly Slab', sans-serif;
 }
 .landingPage{
     background-color:#0B1C2D ;

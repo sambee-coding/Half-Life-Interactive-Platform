@@ -1,4 +1,5 @@
 import React from 'react'
+import Contact from './subpages/Contact'
 
 export default function Footer() {
   return (
@@ -18,7 +19,7 @@ export default function Footer() {
         <ul className="list-unstyled" >
           <li><a href="#" class="text-light text-decoration-none" id="quick-links">Home</a></li>
           <li><a href="gallery.html" className="text-light text-decoration-none" id="quick-links">Gallery</a></li>
-          <li><a href="contact.html" className="text-light text-decoration-none" id="quick-links">Contact</a></li>
+          <li><a href={Contact} className="text-light text-decoration-none" id="quick-links">contact</a></li>
         </ul>
       </div>
 

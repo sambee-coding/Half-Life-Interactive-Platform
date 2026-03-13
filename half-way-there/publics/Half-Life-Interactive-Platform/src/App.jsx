@@ -6,6 +6,7 @@ import FavoritePhotos from './assets/components/FavoritePhotos'
 import Footer from './assets/components/Footer'
 import './index.css'
 import Typewriter from './assets/components/Typewitter'
+import Contact from './assets/components/subpages/Contact'
 
 
 function App() {
